@@ -150,6 +150,7 @@ Auto-start settings are saved and restored after bot restarts.
 **MADE BY — .samratt**  
 `1154000002927050853`
 
+Discord: https://discord.com/users/1154000002927050853
 GitHub: https://github.com/SAMRAT69
 
 ---
